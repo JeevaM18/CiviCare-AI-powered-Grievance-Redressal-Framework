@@ -40,22 +40,22 @@ Below are snapshots from the **Streamlit Civic Grievance Dashboard**, showcasing
 
 ### 🔸 Dashboard Overview  
 <p align="center">
-  <img src="assets/1.jpg" alt="Civic Dashboard Overview" width="750"/>
+  <img src="assets/1.png" alt="Civic Dashboard Overview" width="750"/>
 </p>
 
 ### 🔸 High Priority Issues Analytics  
 <p align="center">
-  <img src="assets/2.jpg" alt="High Priority Issues Overview" width="750"/>
+  <img src="assets/2.png" alt="High Priority Issues Overview" width="750"/>
 </p>
 
 ### 🔸 Complaint Detail Cards  
 <p align="center">
-  <img src="assets/3.jpg" alt="Department Notified Popup" width="750"/>
+  <img src="assets/3.png" alt="Department Notified Popup" width="750"/>
 </p>
 
 ### 🔸 Department Escalation Notification  
 <p align="center">
-  <img src="assets/4.jpg" alt="Complaint Cards Section" width="750"/>
+  <img src="assets/4.png" alt="Complaint Cards Section" width="750"/>
 </p>
 
 ### 🔸 Monthy Report Generation
