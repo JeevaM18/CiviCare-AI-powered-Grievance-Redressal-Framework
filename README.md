@@ -11,7 +11,7 @@
 
 
 ---
-Developed by *M Vishal & Jeeva M*
+Developed by *Jeeva M & M Vishal*
 ---
 ## 🚀 Project Overview
 This system automates grievance collection and prioritization for municipal governance using:
